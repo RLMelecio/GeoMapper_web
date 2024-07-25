@@ -5,7 +5,8 @@ export default function Home() {
         <div className="flex bg-[#fff]">
             <Sidebar/>
             <main className="pl-5 ">
-                
+                <h1>GEOMAPPER</h1>
+                <h2>Data Analysis and Fish tracking</h2>
             </main>
         </div>
     )
