@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import fishlogo from '../assets/fish_logo2.png'
-import aquaticbackground from '../assets/BK_FISH3v2.png'
+import fishlogo from '../assets/fish_logo2.png';
+import aquaticbackground from '../assets/BK_FISH3v2.png';
 import * as FaIcons from 'react-icons/fa';
-import * as AiIcons from 'react-icons/ai';
 import { IconContext } from 'react-icons';
 
 
