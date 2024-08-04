@@ -13,8 +13,8 @@ export default function SignIn() {
     const handleSignIn = async (event: React.FormEvent<HTMLFormElement>) => {
         event.preventDefault();
         await signInWithEmailAndPassword(db_auth, email, password).then(data => {
-            console.log("Login Successful");
-            navigate('/home');
+            alert("Login Successful");
+            navigate('/admin/terms');
         })
     };
 
