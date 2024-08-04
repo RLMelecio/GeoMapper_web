@@ -52,7 +52,7 @@ export default function Home() {
                                         <span className="font-medium">John Doe</span>
                                     </td>
                                     <td className="py-3 px-6 text-left border-r border-gray-200">
-                                        <span>Administrator</span>
+                                        <span>Administrators</span>
                                     </td>
                                     <td className="py-3 px-6 text-left">
                                         <span className="bg-green-200 text-green-600 py-1 px-3 rounded-full text-xs">Active</span>
